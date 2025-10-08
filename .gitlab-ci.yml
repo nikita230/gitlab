@@ -1,5 +1,6 @@
 image: 'abhishekf5/maven-abhishek-docker-agent:v1'
-
+ 
+ 
 variables:
   #
   SONAR_HOST_URL: http://13.235.216.250:9000
